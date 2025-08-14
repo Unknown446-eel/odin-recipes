@@ -1,0 +1,1 @@
+The purpose of this repository is to be a representation of my HTML knowledge so far.
