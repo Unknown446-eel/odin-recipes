@@ -1,1 +1,1 @@
-The purpose of this repository is to be a representation of my HTML knowledge so far.
+    The purpose of this repository is to be a representation of my HTML knowledge so far. The object of this project is to create a website that holds a collection recipes for a variety of different foods. Note that I did use AI to create the text for the description, ingredients, and steps sections.
